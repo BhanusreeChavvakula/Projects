@@ -1,7 +1,7 @@
 # Projects
 A collection of my Data Analytics &amp; Engineering projects including ETL pipelines, dashboards, and machine learning models.
 
-# ETL Pipeline with Azure Data Factory 🚀
+# etl-nyc-taxi-trip 🚀
 
 ## 📌 Project Overview
 This project demonstrates an ETL (Extract, Transform, Load) pipeline using **Azure Data Factory, SQL, and Python** to automate data integration and transformation processes.
