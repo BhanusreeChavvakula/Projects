@@ -20,15 +20,12 @@ This project demonstrates an **ETL pipeline** that processes the **New York City
 ## 📊 Data Visualizations
 **Trip Duration Distribution**  
 📌 Shows how trip durations are spread across the dataset.  
-![Trip Duration Distribution](images/trip_duration_distribution.png)  
 
 **Trip Duration by Hour of Day**  
 📌 Analyzes how trip duration varies by the time of the day.  
-![Trip Duration by Hour](images/trip_duration_by_hour.png)  
 
 **Number of Trips by Day of the Week**  
-📌 Displays the volume of taxi trips for each day of the week.  
-![Trips by Day of Week](images/trips_by_day_of_week.png)  
+📌 Displays the volume of taxi trips for each day of the week.    
 
 ## 🚀 How to Run
 1. **Install dependencies**:
